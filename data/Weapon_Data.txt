@@ -1,0 +1,913 @@
+--- Weapon ---
+
+--- One-handed Swords ---
+
+Name: Pipe of Thralldom
+Base Physical Damage: 30.0
+Weight: 5
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Hellfire Pipe
+Base Physical Damage: 30.0
+Weight: 5
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Hoarfrost Pipe
+Base Physical Damage: 30.0
+Weight: 5
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Thunderbolt Pipe
+Base Physical Damage: 30.0
+Weight: 5
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Blazing Claw
+Base Physical Damage: 97.0
+Weight: 28
+SS Strength: C
+SS Dexterity: A
+SS Mind: C
+SS Willpower: B
+RS Strength: D
+RS Dexterity: B
+RS Mind: D
+RS Willpower: C
+
+Name: Inferno Blade
+Base Physical Damage: 125.0
+Weight: 33
+SS Strength: A+
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: A
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Fulmen Blade
+Base Physical Damage: 145.0
+Weight: 45
+SS Strength: -
+SS Dexterity: A+
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: A
+RS Mind: B
+RS Willpower: -
+
+Name: Queenslayer Blade
+Base Physical Damage: 125.0
+Weight: 35
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Broadsword
+Base Physical Damage: 155.0
+Weight: 43
+SS Strength: C+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Hanemukuro
+Base Physical Damage: 125.0
+Weight: 32
+SS Strength: C
+SS Dexterity: B+
+SS Mind: -
+SS Willpower: -
+RS Strength: D
+RS Dexterity: C+
+RS Mind: -
+RS Willpower: -
+
+Name: Machete
+Base Physical Damage: 163.0
+Weight: 46
+SS Strength: B
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: C
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Enduring Crimson
+Base Physical Damage: 120.0
+Weight: 34
+SS Strength: B
+SS Dexterity: B
+SS Mind: -
+SS Willpower: -
+RS Strength: C
+RS Dexterity: C
+RS Mind: -
+RS Willpower: -
+
+Name: Executioner
+Base Physical Damage: 105.0
+Weight: 38
+SS Strength: C+
+SS Dexterity: A
+SS Mind: C
+SS Willpower: C
+RS Strength: D+
+RS Dexterity: B
+RS Mind: -
+RS Willpower: -
+
+Name: Blazing Claw
+Base Physical Damage: 95.0
+Weight: 28
+SS Strength: C
+SS Dexterity: A
+SS Mind: D
+SS Willpower: C
+RS Strength: D
+RS Dexterity: B
+RS Mind: D
+RS Willpower: C
+
+Name: Iceblood
+Base Physical Damage: 92.0
+Weight: 17
+SS Strength: C+
+SS Dexterity: B+
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: C+
+RS Mind: -
+RS Willpower: -
+
+Name: Lost Broadsword
+Base Physical Damage: 169.0
+Weight: 40
+SS Strength: C+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Sunset Sword
+Base Physical Damage: 137.0
+Weight: 30
+SS Strength: C
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: D
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Black Saber
+Base Physical Damage: 124.0
+Weight: 48
+SS Strength: A
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Argent Wolf Blade
+Base Physical Damage: 145.0
+Weight: 35
+SS Strength: C
+SS Dexterity: C
+SS Mind: E+
+SS Willpower: D
+RS Strength: D
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Crimson Longsword
+Base Physical Damage: 131.0
+Weight: 30
+SS Strength: C
+SS Dexterity: C
+SS Mind: C
+SS Willpower: C+
+RS Strength: D
+RS Dexterity: D
+RS Mind: D
+RS Willpower: D+
+
+--- Two-handed Swords ---
+
+Name: Queenslayer Greatsword
+Base Physical Damage: 244.0
+Weight: 73
+SS Strength: C
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Wrathful Balmung
+Base Physical Damage: 244.0
+Weight: 80
+SS Strength: -
+SS Dexterity: A+
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: A
+RS Mind: -
+RS Willpower: -
+
+Name: Zweihander
+Base Physical Damage: 286.0
+Weight: 87
+SS Strength: B
+SS Dexterity: E+
+SS Mind: -
+SS Willpower: -
+RS Strength: C
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Nagimukuro
+Base Physical Damage: 215.0
+Weight: 75
+SS Strength: C+
+SS Dexterity: B
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: C
+RS Mind: -
+RS Willpower: -
+
+Name: Warped Blade
+Base Physical Damage: 206.0
+Weight: 72
+SS Strength: B
+SS Dexterity: D+
+SS Mind: D+
+SS Willpower: D+
+RS Strength: C
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Oni Bane
+Base Physical Damage: 248.0
+Weight: 78
+SS Strength: A
+SS Dexterity: E
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Judgment Edge
+Base Physical Damage: 222.0
+Weight: 86
+SS Strength: A
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Argent Wolf King's Blade
+Base Physical Damage: 282.0
+Weight: 80
+SS Strength: A
+SS Dexterity: -
+SS Mind: C
+SS Willpower: D+
+RS Strength: B
+RS Dexterity: -
+RS Mind: D
+RS Willpower: -
+
+Name: Lost Zweihander
+Base Physical Damage: 290.0
+Weight: 80
+SS Strength: C+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Sunset Great Sword
+Base Physical Damage: 265.0
+Weight: 65
+SS Strength: C+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Azure Greatsword
+Base Physical Damage: 286.0
+Weight: 85
+SS Strength: B
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: C
+RS Dexterity: -
+RS Mind: -
+RS Willpower: B
+
+Name: Black Greatsword
+Base Physical Damage: 227.0
+Weight: 70
+SS Strength: B+
+SS Dexterity: D
+SS Mind: D+
+SS Willpower: C
+RS Strength: C+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: D
+
+Name: Blanched Greatsword
+Base Physical Damage: 250.0
+Weight: 90
+SS Strength: A
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Argent Wolf Brand
+Base Physical Damage: 243.0
+Weight: 82
+SS Strength: A
+SS Dexterity: E
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+--- Halberds ---
+
+Name: Queenslayer Halberd
+Base Physical Damage: 215.0
+Weight: 60
+SS Strength: C
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: D
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Lightning Brionac
+Base Physical Damage: 102.0
+Weight: 30
+SS Strength: D+
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: -
+RS Mind: -
+RS Willpower: A
+
+Name: Garnet Splitter
+Base Physical Damage: 215.0
+Weight: 54
+SS Strength: C
+SS Dexterity: B+
+SS Mind: C
+SS Willpower: D+
+RS Strength: D
+RS Dexterity: C+
+RS Mind: D
+RS Willpower: -
+
+Name: Snowdrift Sharur
+Base Physical Damage: 176.0
+Weight: 58
+SS Strength: A+
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: A
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Blood Mist Halberd
+Base Physical Damage: 176.0
+Weight: 50
+SS Strength: A+
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: A
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Cerulean Spear
+Base Physical Damage: 208.0
+Weight: 45
+SS Strength: C
+SS Dexterity: D+
+SS Mind: C
+SS Willpower: C+
+RS Strength: D
+RS Dexterity: -
+RS Mind: D
+RS Willpower: D+
+
+Name: Bardiche
+Base Physical Damage: 185.0
+Weight: 52
+SS Strength: C+
+SS Dexterity: C+
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: D+
+RS Mind: -
+RS Willpower: -
+
+Name: Impaler
+Base Physical Damage: 192.0
+Weight: 47
+SS Strength: D+
+SS Dexterity: B
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: C
+RS Mind: -
+RS Willpower: -
+
+Name: Garnet Splitter
+Base Physical Damage: 185.0
+Weight: 54
+SS Strength: C
+SS Dexterity: B+
+SS Mind: C
+SS Willpower: D+
+RS Strength: D
+RS Dexterity: C+
+RS Mind: D
+RS Willpower: -
+
+Name: Dammerung
+Base Physical Damage: 171.0
+Weight: 57
+SS Strength: B
+SS Dexterity: C
+SS Mind: C+
+SS Willpower: D+
+RS Strength: C
+RS Dexterity: D
+RS Mind: D+
+RS Willpower: -
+
+Name: Obliterator Axe
+Base Physical Damage: 200.0
+Weight: 70
+SS Strength: A
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Assassin's Sickle
+Base Physical Damage: 134.0
+Weight: 42
+SS Strength: C
+SS Dexterity: A
+SS Mind: D+
+SS Willpower: C+
+RS Strength: D
+RS Dexterity: B
+RS Mind: -
+RS Willpower: D+
+
+Name: Lost Bardiche
+Base Physical Damage: 200.0
+Weight: 50
+SS Strength: C
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: D
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Sunset Halberd
+Base Physical Damage: 228.0
+Weight: 58
+SS Strength: D+
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Black Halberd
+Base Physical Damage: 174.0
+Weight: 48
+SS Strength: D
+SS Dexterity: A
+SS Mind: C
+SS Willpower: D+
+RS Strength: E
+RS Dexterity: B
+RS Mind: D
+RS Willpower: -
+
+Name: Argent Wolf Poleaxe
+Base Physical Damage: 212.0
+Weight: 66
+SS Strength: E
+SS Dexterity: A
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: B
+RS Mind: -
+RS Willpower: -
+
+--- Hammers ---
+
+Name: Hammer of Thralldom
+Base Physical Damage: 62.0
+Weight: 95
+SS Strength: B+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: C+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Hellfire Hammer
+Base Physical Damage: 215.0
+Weight: 56
+SS Strength: -
+SS Dexterity: A
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: A
+RS Mind: C
+RS Willpower: -
+
+Name: Queenslayer Hammer
+Base Physical Damage: 238.0
+Weight: 74
+SS Strength: B+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: C+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Heavy Axe
+Base Physical Damage: 215.0
+Weight: 55
+SS Strength: B
+SS Dexterity: E
+SS Mind: -
+SS Willpower: -
+RS Strength: C
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Impulse Anchor
+Base Physical Damage: 270.0
+Weight: 78
+SS Strength: C+
+SS Dexterity: E+
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Huge Hammer
+Base Physical Damage: 208.0
+Weight: 87
+SS Strength: A
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Burned Warhammer
+Base Physical Damage: 192.0
+Weight: 72
+SS Strength: B+
+SS Dexterity: D
+SS Mind: C
+SS Willpower: D
+RS Strength: C+
+RS Dexterity: -
+RS Mind: D
+RS Willpower: -
+
+Name: Juggernaut Sledgehammer
+Base Physical Damage: 215.0
+Weight: 76
+SS Strength: A
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Tyrant's Labrys
+Base Physical Damage: 180.0
+Weight: 58
+SS Strength: A
+SS Dexterity: D+
+SS Mind: D+
+SS Willpower: D+
+RS Strength: B
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Lost Heavy Axe
+Base Physical Damage: 164.0
+Weight: 50
+SS Strength: A
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+Name: Sunset Hammer
+Base Physical Damage: 270.0
+Weight: 68
+SS Strength: C+
+SS Dexterity: D+
+SS Mind: -
+SS Willpower: -
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Argent Wolf Warhammer
+Base Physical Damage: 204.0
+Weight: 84
+SS Strength: A
+SS Dexterity: C
+SS Mind: -
+SS Willpower: -
+RS Strength: B
+RS Dexterity: D
+RS Mind: -
+RS Willpower: -
+
+--- Bayonets ---
+
+Name: Queenslayer Bayonet
+Base Physical Damage: 130.0
+Weight: 15
+SS Strength: -
+SS Dexterity: A
+SS Mind: C+
+SS Willpower: B
+RS Strength: -
+RS Dexterity: D
+RS Mind: D+
+RS Willpower: D+
+
+Name: Riot Breaker
+Base Physical Damage: 119.0
+Weight: 22
+SS Strength: B
+SS Dexterity: C+
+SS Mind: C
+SS Willpower: B
+RS Strength: D+
+RS Dexterity: D
+RS Mind: D
+RS Willpower: C
+
+Name: Bloody Snow
+Base Physical Damage: 120.0
+Weight: 12
+SS Strength: -
+SS Dexterity: A
+SS Mind: -
+SS Willpower: A+
+RS Strength: -
+RS Dexterity: B
+RS Mind: -
+RS Willpower: A
+
+Name: Thunderbolt
+Base Physical Damage: 170.0
+Weight: 14
+SS Strength: -
+SS Dexterity: C+
+SS Mind: -
+SS Willpower: A
+RS Strength: -
+RS Dexterity: B
+RS Mind: -
+RS Willpower: B+
+
+Name: Rubellite Piercer
+Base Physical Damage: 125.0
+Weight: 18
+SS Strength: -
+SS Dexterity: A
+SS Mind: C+
+SS Willpower: C+
+RS Strength: -
+RS Dexterity: D
+RS Mind: D+
+RS Willpower: D+
+
+Name: Bayonet
+Base Physical Damage: 138.0
+Weight: 14
+SS Strength: -
+SS Dexterity: A
+SS Mind: C
+SS Willpower: B+
+RS Strength: -
+RS Dexterity: C+
+RS Mind: D
+RS Willpower: C
+
+Name: Brodiaea
+Base Physical Damage: 150.0
+Weight: 10
+SS Strength: -
+SS Dexterity: A
+SS Mind: C
+SS Willpower: B
+RS Strength: -
+RS Dexterity: C+
+RS Mind: D
+RS Willpower: C
+
+Name: Libertador
+Base Physical Damage: 183.0
+Weight: 20
+SS Strength: -
+SS Dexterity: C+
+SS Mind: B
+SS Willpower: B
+RS Strength: -
+RS Dexterity: D
+RS Mind: C
+RS Willpower: C
+
+Name: Burning Disaster
+Base Physical Damage: 82.0
+Weight: 33
+SS Strength: B+
+SS Dexterity: A
+SS Mind: B+
+SS Willpower: E
+RS Strength: C+
+RS Dexterity: B
+RS Mind: C
+RS Willpower: -
+
+Name: Lost Bayonet
+Base Physical Damage: 167.0
+Weight: 11
+SS Strength: -
+SS Dexterity: C
+SS Mind: D
+SS Willpower: C
+RS Strength: -
+RS Dexterity: -
+RS Mind: -
+RS Willpower: D
+
+Name: Sunset Bayonet
+Base Physical Damage: 153.0
+Weight: 8
+SS Strength: -
+SS Dexterity: C+
+SS Mind: C
+SS Willpower: D
+RS Strength: -
+RS Dexterity: D
+RS Mind: -
+RS Willpower: D
+
+Name: Black Bayonet
+Base Physical Damage: 163.0
+Weight: 24
+SS Strength: -
+SS Dexterity: B+
+SS Mind: D
+SS Willpower: B+
+RS Strength: -
+RS Dexterity: C+
+RS Mind: -
+RS Willpower: C+
+
+Name: Argent Wolf Bayonet
+Base Physical Damage: 174.0
+Weight: 27
+SS Strength: -
+SS Dexterity: B
+SS Mind: D
+SS Willpower: B+
+RS Strength: -
+RS Dexterity: C
+RS Mind: -
+RS Willpower: C+
+
+--- End File ---

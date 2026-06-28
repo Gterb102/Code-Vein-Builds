@@ -1,0 +1,423 @@
+--- Blood Code ---
+
+Name: Fighter
+Mobility: Normal
+Weight: 120
+Strength: B+
+Dexterity: B
+Mind: C
+Willpower: D+
+Vitality: D
+Fortitude: D
+
+Name: Ranger
+Mobility: Quick
+Weight: 70
+Strength: C
+Dexterity: B+
+Mind: D+
+Willpower: C
+Vitality: D
+Fortitude: C
+
+Name: Caster
+Mobility: Normal
+Weight: 98
+Strength: D+
+Dexterity: C
+Mind: B
+Willpower: B+
+Vitality: E+
+Fortitude: E+
+
+Name: Queenslayer
+Mobility: Normal
+Weight: 100
+Strength: B+
+Dexterity: A
+Mind: B
+Willpower: C+
+Vitality: C+
+Fortitude: C
+
+Name: Prometheus
+Mobility: Normal
+Weight: 103
+Strength: B+
+Dexterity: B+
+Mind: C+
+Willpower: C+
+Vitality: C+
+Fortitude: A
+
+Name: Mercury
+Mobility: Normal
+Weight: 95
+Strength: B
+Dexterity: B+
+Mind: C+
+Willpower: C+
+Vitality: C
+Fortitude: C+
+
+Name: Hermes
+Mobility: Normal
+Weight: 100
+Strength: B
+Dexterity: C
+Mind: B+
+Willpower: C
+Vitality: C+
+Fortitude: C+
+
+Name: Atlas
+Mobility: Slow
+Weight: 247
+Strength: A+
+Dexterity: D+
+Mind: D+
+Willpower: C
+Vitality: A+
+Fortitude: C+
+
+Name: Artemis
+Mobility: Normal
+Weight: 80
+Strength: D
+Dexterity: B+
+Mind: C+
+Willpower: A
+Vitality: C+
+Fortitude: B
+
+Name: Eos
+Mobility: Normal
+Weight: 98
+Strength: B
+Dexterity: C
+Mind: A+
+Willpower: C+
+Vitality: A
+Fortitude: C
+
+Name: Heimdal
+Mobility: Quick
+Weight: 55
+Strength: C+
+Dexterity: A+
+Mind: C+
+Willpower: C+
+Vitality: C
+Fortitude: A+
+
+Name: Hephaestus
+Mobility: Normal
+Weight: 80
+Strength: C
+Dexterity: A
+Mind: C
+Willpower: B+
+Vitality: B
+Fortitude: C+
+
+Name: Darkseeker
+Mobility: Normal
+Weight: 105
+Strength: D+
+Dexterity: B
+Mind: B+
+Willpower: B+
+Vitality: D
+Fortitude: D
+
+Name: Isis
+Mobility: Slow
+Weight: 249
+Strength: C
+Dexterity: B
+Mind: B+
+Willpower: B+
+Vitality: C+
+Fortitude: C+
+
+Name: Queen's Ribcage
+Mobility: Normal
+Weight: 105
+Strength: D+
+Dexterity: C+
+Mind: B+
+Willpower: A
+Vitality: E+
+Fortitude: D
+
+Name: Fionn
+Mobility: Slow
+Weight: 250
+Strength: A
+Dexterity: C
+Mind: B
+Willpower: D+
+Vitality: B
+Fortitude: C+
+
+Name: Queen's Breath
+Mobility: Normal
+Weight: 95
+Strength: A
+Dexterity: D+
+Mind: A
+Willpower: D+
+Vitality: C+
+Fortitude: D+
+
+Name: Scathach
+Mobility: Normal
+Weight: 99
+Strength: C+
+Dexterity: B+
+Mind: B
+Willpower: B
+Vitality: C
+Fortitude: B
+
+Name: Queen's Claw
+Mobility: Normal
+Weight: 80
+Strength: B+
+Dexterity: A
+Mind: C+
+Willpower: B+
+Vitality: E+
+Fortitude: C
+
+Name: Harmonia
+Mobility: Normal
+Weight: 80
+Strength: D
+Dexterity: C
+Mind: B
+Willpower: A+
+Vitality: C
+Fortitude: C
+
+Name: Queen's Throat
+Mobility: Quick
+Weight: 63
+Strength: D
+Dexterity: D
+Mind: A+
+Willpower: A
+Vitality: D
+Fortitude: D+
+
+Name: Demeter
+Mobility: Normal
+Weight: 99
+Strength: A
+Dexterity: D+
+Mind: A
+Willpower: C+
+Vitality: B+
+Fortitude: E+
+
+Name: Berserker
+Mobility: Slow
+Weight: 250
+Strength: A
+Dexterity: D
+Mind: D+
+Willpower: D+
+Vitality: B+
+Fortitude: B+
+
+Name: Hunter
+Mobility: Normal
+Weight: 80
+Strength: C
+Dexterity: B
+Mind: C+
+Willpower: B+
+Vitality: C+
+Fortitude: C
+
+Name: Assassin
+Mobility: Quick
+Weight: 58
+Strength: C+
+Dexterity: B+
+Mind: D+
+Willpower: C+
+Vitality: C
+Fortitude: B+
+
+Name: Survivor
+Mobility: Normal
+Weight: 80
+Strength: C
+Dexterity: A
+Mind: C+
+Willpower: D+
+Vitality: C
+Fortitude: B
+
+Name: Dark Knight
+Mobility: Normal
+Weight: 102
+Strength: A
+Dexterity: B
+Mind: C
+Willpower: C
+Vitality: C+
+Fortitude: D+
+
+Name: Warrior
+Mobility: Slow
+Weight: 245
+Strength: A+
+Dexterity: C+
+Mind: C
+Willpower: B
+Vitality: B
+Fortitude: E+
+
+Name: Scout
+Mobility: Quick
+Weight: 60
+Strength: C+
+Dexterity: A
+Mind: B
+Willpower: C+
+Vitality: C+
+Fortitude: C
+
+Name: Ishtar
+Mobility: Normal
+Weight: 100
+Strength: B+
+Dexterity: C
+Mind: A
+Willpower: B
+Vitality: C
+Fortitude: A+
+
+Name: Queen
+Mobility: Normal
+Weight: 103
+Strength: C+
+Dexterity: C
+Mind: A
+Willpower: A
+Vitality: C+
+Fortitude: C
+
+Name: Hades
+Mobility: Slow
+Weight: 250
+Strength: A+
+Dexterity: B
+Mind: C
+Willpower: C
+Vitality: C+
+Fortitude: B
+
+Name: Astrea
+Mobility: Normal
+Weight: 85
+Strength: C
+Dexterity: C+
+Mind: B
+Willpower: B
+Vitality: D+
+Fortitude: C
+
+Name: Harbinger
+Mobility: Normal
+Weight: 100
+Strength: C+
+Dexterity: C
+Mind: D+
+Willpower: C
+Vitality: A
+Fortitude: B+
+
+Name: Asclepius
+Mobility: Normal
+Weight: 110
+Strength: C
+Dexterity: C
+Mind: C
+Willpower: D+
+Vitality: S+
+Fortitude: S+
+
+Name: Achilles
+Mobility: Quick
+Weight: 56
+Strength: D+
+Dexterity: S+
+Mind: D+
+Willpower: D
+Vitality: D
+Fortitude: S+
+
+Name: Surt
+Mobility: Quick
+Weight: 59
+Strength: S
+Dexterity: C
+Mind: C+
+Willpower: C+
+Vitality: D
+Fortitude: S
+
+Name: Ymir
+Mobility: Slow
+Weight: 244
+Strength: C+
+Dexterity: D
+Mind: C
+Willpower: S
+Vitality: S
+Fortitude: C+
+
+Name: Pollux
+Mobility: Slow
+Weight: 246
+Strength: S+
+Dexterity: D
+Mind: D+
+Willpower: D+
+Vitality: S+
+Fortitude: D
+
+Name: Orion
+Mobility: Normal
+Weight: 78
+Strength: D
+Dexterity: S+
+Mind: D+
+Willpower: S+
+Vitality: D
+Fortitude: D+
+
+Name: Vali
+Mobility: Normal
+Weight: 101
+Strength: D
+Dexterity: S
+Mind: S
+Willpower: C+
+Vitality: C+
+Fortitude: C
+
+Name: Perseus
+Mobility: Normal
+Weight: 72
+Strength: D
+Dexterity: D+
+Mind: S+
+Willpower: S+
+Vitality: D+
+Fortitude: D
+
+--- End File ---

@@ -1,0 +1,351 @@
+--- Blood Veil ---
+
+Name: Queenslayer Claw
+Base Drain Damage: 186.0
+Weight: 55
+SS Strength: -
+SS Dexterity: C
+SS Mind: C+
+SS Willpower: C+
+RS Strength: -
+RS Dexterity: D
+RS Mind: D+
+RS Willpower: D+
+
+Name: Night Claw
+Base Drain Damage: 185.0
+Weight: 30
+SS Strength: -
+SS Dexterity: A
+SS Mind: C
+SS Willpower: C
+RS Strength: -
+RS Dexterity: D+
+RS Mind: D
+RS Willpower: D
+
+Name: GXM Variant
+Base Drain Damage: 197.0
+Weight: 63
+SS Strength: C+
+SS Dexterity: E
+SS Mind: C+
+SS Willpower: D
+RS Strength: D+
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: -
+
+Name: Blackblood Liberator
+Base Drain Damage: 154.0
+Weight: 49
+SS Strength: D
+SS Dexterity: -
+SS Mind: D+
+SS Willpower: A
+RS Strength: -
+RS Dexterity: -
+RS Mind: -
+RS Willpower: B
+
+Name: Noble Silver
+Base Drain Damage: 170.0
+Weight: 22
+SS Strength: D+
+SS Dexterity: D+
+SS Mind: A
+SS Willpower: D
+RS Strength: -
+RS Dexterity: -
+RS Mind: B
+RS Willpower: -
+
+Name: Venous Claw
+Base Drain Damage: 186.0
+Weight: 18
+SS Strength: C
+SS Dexterity: B+
+SS Mind: C+
+SS Willpower: B+
+RS Strength: D
+RS Dexterity: C+
+RS Mind: D+
+RS Willpower: C+
+
+Name: Twilight Claw
+Base Drain Damage: 196.0
+Weight: 32
+SS Strength: A+
+SS Dexterity: -
+SS Mind: -
+SS Willpower: -
+RS Strength: A
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Ruinous Chevalier
+Base Drain Damage: 143.0
+Weight: 60
+SS Strength: B
+SS Dexterity: -
+SS Mind: -
+SS Willpower: A
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: B
+
+Name: Queenslayer Thorn
+Base Drain Damage: 170.0
+Weight: 47
+SS Strength: D
+SS Dexterity: E+
+SS Mind: C+
+SS Willpower: D+
+RS Strength: -
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: -
+
+Name: Night Spear
+Base Drain Damage: 172.0
+Weight: 65
+SS Strength: E+
+SS Dexterity: C+
+SS Mind: C+
+SS Willpower: D+
+RS Strength: -
+RS Dexterity: D+
+RS Mind: D+
+RS Willpower: -
+
+Name: Raven Fatigues
+Base Drain Damage: 167.0
+Weight: 38
+SS Strength: C
+SS Dexterity: E+
+SS Mind: D+
+SS Willpower: B+
+RS Strength: D
+RS Dexterity: -
+RS Mind: -
+RS Willpower: C+
+
+Name: Winter Mantle
+Base Drain Damage: 182.0
+Weight: 74
+SS Strength: E
+SS Dexterity: D+
+SS Mind: B+
+SS Willpower: D+
+RS Strength: -
+RS Dexterity: -
+RS Mind: C+
+RS Willpower: -
+
+Name: Silver Garb
+Base Drain Damage: 179.0
+Weight: 80
+SS Strength: C+
+SS Dexterity: E
+SS Mind: C+
+SS Willpower: D
+RS Strength: D+
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: -
+
+Name: Graceful Prominence
+Base Drain Damage: 167.0
+Weight: 34
+SS Strength: C+
+SS Dexterity: B+
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: B+
+RS Mind: -
+RS Willpower: -
+
+Name: Subzero Shroud
+Base Drain Damage: 152.0
+Weight: 78
+SS Strength: -
+SS Dexterity: -
+SS Mind: -
+SS Willpower: A+
+RS Strength: -
+RS Dexterity: -
+RS Mind: -
+RS Willpower: A
+
+Name: Blue Hounds
+Base Drain Damage: 164.0
+Weight: 53
+SS Strength: -
+SS Dexterity: C+
+SS Mind: C
+SS Willpower: C
+RS Strength: -
+RS Dexterity: D+
+RS Mind: D
+RS Willpower: D
+
+Name: Night Fang
+Base Drain Damage: 188.0
+Weight: 60
+SS Strength: C+
+SS Dexterity: E
+SS Mind: D+
+SS Willpower: D+
+RS Strength: D+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: GXL Defender
+Base Drain Damage: 181.0
+Weight: 88
+SS Strength: E+
+SS Dexterity: B
+SS Mind: C+
+SS Willpower: D
+RS Strength: -
+RS Dexterity: C
+RS Mind: D+
+RS Willpower: -
+
+Name: Hedgehog Fort
+Base Drain Damage: 128.0
+Weight: 80
+SS Strength: C+
+SS Dexterity: D
+SS Mind: C
+SS Willpower: B+
+RS Strength: D+
+RS Dexterity: -
+RS Mind: D
+RS Willpower: C+
+
+Name: White Vestment
+Base Drain Damage: 164.0
+Weight: 65
+SS Strength: -
+SS Dexterity: C
+SS Mind: B+
+SS Willpower: C
+RS Strength: -
+RS Dexterity: D
+RS Mind: C+
+RS Willpower: D
+
+Name: Daybreak Thunderfang
+Base Drain Damage: 170.0
+Weight: 77
+SS Strength: -
+SS Dexterity: C+
+SS Mind: A+
+SS Willpower: -
+RS Strength: -
+RS Dexterity: C+
+RS Mind: B+
+RS Willpower: -
+
+Name: Violet Gear
+Base Drain Damage: 175.0
+Weight: 43
+SS Strength: B+
+SS Dexterity: D
+SS Mind: -
+SS Willpower: -
+RS Strength: B+
+RS Dexterity: -
+RS Mind: -
+RS Willpower: -
+
+Name: Ivory Grace
+Base Drain Damage: 158.0
+Weight: 12
+SS Strength: -
+SS Dexterity: C
+SS Mind: B+
+SS Willpower: B+
+RS Strength: -
+RS Dexterity: D
+RS Mind: C+
+RS Willpower: C+
+
+Name: Night Thorn
+Base Drain Damage: 179.0
+Weight: 24
+SS Strength: D+
+SS Dexterity: D+
+SS Mind: C+
+SS Willpower: C+
+RS Strength: -
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: D+
+
+Name: GXH Assault
+Base Drain Damage: 188.0
+Weight: 40
+SS Strength: B
+SS Dexterity: E
+SS Mind: C
+SS Willpower: B
+RS Strength: C
+RS Dexterity: -
+RS Mind: D
+RS Willpower: C
+
+Name: Prayer Shawl
+Base Drain Damage: 166.0
+Weight: 48
+SS Strength: D+
+SS Dexterity: D+
+SS Mind: C+
+SS Willpower: D
+RS Strength: -
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: -
+
+Name: Suicide Spur
+Base Drain Damage: 165.0
+Weight: 35
+SS Strength: D+
+SS Dexterity: E+
+SS Mind: C+
+SS Willpower: A
+RS Strength: -
+RS Dexterity: -
+RS Mind: D+
+RS Willpower: B
+
+Name: Master Spines
+Base Drain Damage: 188.0
+Weight: 12
+SS Strength: -
+SS Dexterity: B+
+SS Mind: -
+SS Willpower: B+
+RS Strength: -
+RS Dexterity: B+
+RS Mind: -
+RS Willpower: B+
+
+Name: Bewitching Thorn
+Base Drain Damage: 188.0
+Weight: 23
+SS Strength: -
+SS Dexterity: A
+SS Mind: -
+SS Willpower: -
+RS Strength: -
+RS Dexterity: A
+RS Mind: -
+RS Willpower: -
+
+--- End File ---

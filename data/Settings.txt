@@ -1,0 +1,14 @@
+--- Settings ---
+
+Blood Code: 0
+Weapon Type: 0
+Mobility: 0
+Level: 1
+Weapon Reinforcement: 0
+Blood Veil Reinforcement: 0
+Strength Boosts: 0
+Dexterity Boosts: 0
+Mind Boosts: 0
+Willpower Boosts: 0
+
+--- End File ---
