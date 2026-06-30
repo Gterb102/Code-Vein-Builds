@@ -41,6 +41,16 @@ There are 4 menu functions:
 > You can use the left and right arrows to navigate to another page.
 - `Exit` - exiting the program
 
+## Further development
+
+At the moment, the program is far from being completed. There are several plans to add new features and capabilities.
+
+Among them:
+1. Additional stats display (withering damage, light, darkness, health points...)
+2. Sorting by additional characteristics listed in the last point
+3. The ability to select the desired weapon and blood veil in the filter
+4. A rating system that will display the position of any build characteristic among other builds.
+
 ## Bugs and issues
 You can create a request [here](https://github.com/Gterb102/Code-Vein-Builds/issues)
 
